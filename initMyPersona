@@ -1,0 +1,1 @@
+sudo apt-get update -y && apt-get upgrade -y && apt-get install -y python-pip python-dev build-essential && pip install mytool4docker&&rm ./initMyPersona
